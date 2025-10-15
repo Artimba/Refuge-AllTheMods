@@ -1,0 +1,13 @@
+name = "Modular Bees"
+filename = "ModularBees-1.21.1-1.0-neoforge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c0aa4fe5239c24f86e54ef87b6faec08e260f23a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7038721
+project-id = 1350380
